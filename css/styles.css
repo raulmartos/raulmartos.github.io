@@ -1,15 +1,15 @@
 html, body{
 	font-size:16px;
-	color: black;
-	background-color: #efd8d4; 
+	color: #dfdfdf;
+	background-color: #1B4F72; 
 }
 
 a {
-  color: black;
+  color: 00d1b2;
 }
 
 a:hover {
-  color: black;
+  color: 00d1b2;
 }
 
 section{
@@ -21,33 +21,33 @@ p{
 }
 
 .section-1 {
-	background:  #efd8d4;
+	background:  #1B4F72;
 }
 
 .section-2 {
-	background-color: #f0a8ae;
+	background-color: #063647;
 }
 
 .section-3 {
-	background-color: #fcac9c;
+	background-color: #052D3D;
 }
 
 .section-4 {
-	background-color: #f87c54;
+	background-color: #0E282E;
 }
 
 .section-5 {
-	background-color: #efd8d4;
+	background-color: #063647;
 	padding: 0.2rem;
 }
 
 a.nav-item {
-	color: black;
+	color: #dfdfdf;
 }
 
 a.nav-item:hover {
-	color: black;
-	background-color: #f45c3c;
+	color: white;
+	background-color: #0E282E;
 }
 
 hr{
@@ -81,11 +81,11 @@ hr{
 
 .box {
 	background-color: transparent;
-	border: 2px solid black;
+	border: 2px solid rgba(7, 59, 79, 0.5);
 }
 
 .title {
-	color: black;
+	color: white;
 	text-align: left;
 	margin-bottom: 2rem;
 }
